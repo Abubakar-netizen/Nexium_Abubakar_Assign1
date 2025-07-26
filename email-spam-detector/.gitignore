@@ -1,0 +1,19 @@
+# Ignore Python virtual environment
+venv/
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache/config
+.streamlit/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
